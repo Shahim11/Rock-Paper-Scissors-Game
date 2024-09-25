@@ -18,7 +18,7 @@ This is a **generalized** rock-paper-scissors game built using Node.js. The game
 
 ## Prerequisites
 
-- Node.js (version 16 or higher) should be installed on your system.
+- Node.js (version 14.x or higher)
 
 ## Installation
 
